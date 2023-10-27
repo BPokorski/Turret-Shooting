@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29c9642044a94a8eb9a5243a31855094, type: 3}
+  m_Name: Turret Data
+  m_EditorClassIdentifier: 
+  <LiveNumber>k__BackingField: 3
+  <SpawnTime>k__BackingField: 2
+  <ShootTime>k__BackingField: 1
+  <BulletPrefab>k__BackingField: {fileID: 6911218138616619611, guid: 96fd8b930b3307e4893287e22ba245f4, type: 3}

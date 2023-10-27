@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18d02589956d52742ab9595cfc091595, type: 3}
+  m_Name: Level Selection Button Data
+  m_EditorClassIdentifier: 
+  <ButtonBackground>k__BackingField: {fileID: 21300000, guid: 3b65baf657572da4cae7b5084b1c51ca, type: 3}
+  <ActiveButtonBackground>k__BackingField: {fileID: 21300000, guid: 233280bfeab64a5429f5141c21659a39, type: 3}
+  <ButtonPrefab>k__BackingField: {fileID: 5558942522441347235, guid: c0f66ba3ea4719a45897b049e30bd736, type: 3}
