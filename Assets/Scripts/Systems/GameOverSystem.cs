@@ -26,7 +26,7 @@ namespace Systems
         {
             if (_query.IsEmpty) return;
             var numberOfTurrets = _query.CalculateEntityCount();
-            if (numberOfTurrets <=2)
+            if (numberOfTurrets < 2)
             {
                 OnGameOver?.Invoke(new GameOverArgs
                 {
