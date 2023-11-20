@@ -30,7 +30,7 @@ For the purpose of movie, game over appears when there are 10 turrets left.
 ### [Movie](https://drive.google.com/drive/folders/1P6sO80JOeFV8jrTjjwgtTlDLciK4dszA?usp=sharing)
 
 ## Screenshots
-<img src="./Screens/Start Game.png" height=50% width=33%> <img src="./Screens/Gameplay.png" height=50% width=33%> <img src="./Screens/Game Over.png" height=50% width=33%>
+<img src="./Screens/Start Game.png" height=50% width=30%> <img src="./Screens/Gameplay.png" height=50% width=30%> <img src="./Screens/Game Over.png" height=50% width=30%>
 
 ## Contact
 - Email: [bartosz.pokorski67@gmail.com](mailto:bartosz.pokorski67@gmail.com)
