@@ -34,3 +34,5 @@ For the purpose of movie, game over appears when there are 10 turrets left.
 <img src="./Screens/Gameplay 2.png" height=50% width=45%> <img src="./Screens/Gameplay.png" height=50% width=45%> 
 ## Contact
 - Email: [bartosz.pokorski67@gmail.com](mailto:bartosz.pokorski67@gmail.com)
+<br>
+Turret icon used in the game production comes from [Assia Benkerroum](https://www.flaticon.com/authors/assia-benkerroum)
